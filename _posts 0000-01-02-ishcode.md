@@ -1,5 +1,4 @@
 ishabb sliding!!
-
  layout: slide
 title: "Welcome to our second slide!"
 Your "Next time you want to give up, think about this".
