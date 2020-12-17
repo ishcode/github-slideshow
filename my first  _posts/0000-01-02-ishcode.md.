@@ -50,4 +50,3 @@
     $("a.button.darker").click( function() { $("html.light").removeClass("light").addClass("dark"); });
   });
 </script>
-<!-- End Fontawesome -->
