@@ -1,0 +1,9 @@
+ishabb sliding!!
+ layout: slide
+title: "Welcome to our second slide!"
+Your "Next time you want to give up, think about this".
+          -Jeff Bezos in 1999
+
+" It does not matter how slow yoou go as long as you do not stop."
+          -Confucius
+Use the left arrow to go back!
